@@ -1,4 +1,4 @@
-# GCE and GCS test demo
+# GCE and GCS Terraform test demo
 
 To run this test:
 1) Make sure to export your test project as a environment variable
